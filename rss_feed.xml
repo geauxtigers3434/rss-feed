@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+
+<channel>
+<title>My first rss feed</title>
+<description>ABC News feed</description>
+<link>feed://feeds.abcnews.com/abcnews/topstories</link>
+    <item>
+        <title>Page 1</title>
+        <description>description of page 1</description>
+    </item>
+</channel>
+</rss>
